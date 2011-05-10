@@ -1,0 +1,229 @@
+uiopen('C:\Users\Rawley\Documents\MATLAB\CS177\HW6\cs177hw4\test_cat_dog.m',1)
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+test_cat_dog
+"cat_dog" with input:
+catdog 
+true
+"cat_dog" with input:
+catcat 
+false
+"cat_dog" with input:
+1cat1cadodog 
+true
+The function works!
+uiopen('C:\Users\Rawley\Documents\MATLAB\CS177\HW6\cs177hw4\test_first_half.m',1)
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+test_first_half
+"first_half" with inputs:
+WooHoo yields:
+Woo
+ 
+"first_half" with inputs:
+HelloThere yields:
+Hello
+ 
+"first_half" with inputs:
+abcdef yields:
+abc
+ 
+The function works!
+uiopen('C:\Users\Rawley\Documents\MATLAB\CS177\HW6\cs177hw4\test_has22.m',1)
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+test_has22
+"has22" with input:
+1  
+2  
+2  
+yields:
+true
+ 
+"has22" with input:
+1  
+2  
+1  
+2  
+yields:
+false
+ 
+"has22" with input:
+2  
+1  
+2  
+yields:
+false
+ 
+The function works!
+uiopen('C:\Users\Rawley\Documents\MATLAB\CS177\HW6\cs177hw4\test_love6.m',1)
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+test_love6
+"love6" with inputs:
+6 4 
+yields:
+true
+ 
+"love6" with inputs:
+4 5 
+yields:
+false
+ 
+"love6" with inputs:
+1 5 
+yields:
+true
+ 
+The function works!
+uiopen('C:\Users\Rawley\Documents\MATLAB\CS177\HW6\cs177hw4\test_make_abba.m',1)
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+test_make_abba
+"make_abba" with inputs:
+Hi Bye 
+yields:
+HiByeByeHi
+ 
+"make_abba" with inputs:
+Yo Alice 
+yields:
+YoAliceAliceYo
+ 
+"make_abba" with inputs:
+x y 
+yields:
+xyyx
+ 
+The function works!
+uiopen('C:\Users\Rawley\Documents\MATLAB\CS177\HW6\cs177hw4\test_middle_way.m',1)
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+test_middle_way
+"middle_way" with inputs:
+1 2 3
+4 5 6
+yields:
+2 5
+ 
+"middle_way" with inputs:
+7 7 7
+3 8 0
+yields:
+7 8
+ 
+"middle_way" with inputs:
+5 2 9
+1 4 5
+yields:
+2 4
+ 
+The function works!
+uiopen('C:\Users\Rawley\Documents\MATLAB\CS177\HW6\cs177hw4\test_string_times.m',1)
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+test_string_times
+"string_times" with inputs:
+Hi 2 
+yields:
+HiHi
+ 
+"string_times" with inputs:
+Hi 3 
+yields:
+HiHiHi
+ 
+"string_times" with inputs:
+Hi 1 
+yields:
+Hi
+ 
+The function works!
+uiopen('C:\Users\Rawley\Documents\MATLAB\CS177\HW6\cs177hw4\test_sum13.m',1)
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+test_sum13
+"sum13" with inputs:
+1  
+2  
+2  
+1  
+yields:
+6
+ 
+"sum13" with inputs:
+1  
+1  
+yields:
+2
+ 
+"sum13" with inputs:
+1  
+2  
+2  
+1  
+13  
+yields:
+6
+ 
+The function works!
+uiopen('C:\Users\Rawley\Documents\MATLAB\CS177\HW6\cs177hw4\test_without_end.m',1)
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+test_without_end
+"without_end" with input:
+Hello 
+ell
+"without_end" with input:
+java 
+av
+"without_end" with input:
+coding 
+odin
+The function works!
+uiopen('C:\Users\Rawley\Documents\MATLAB\CS177\HW6\cs177hw4\test_xyz_there.m',1)
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+test_xyz_there
+"xyz_there" with input:
+abcxyz 
+true
+"xyz_there" with input:
+abc.xyz 
+false
+"xyz_there" with input:
+xyz.abc 
+true
+The function works!
+uiopen('C:\Users\Rawley\Documents\MATLAB\CS177\HW6\cs177hw4\without_end.m',1)
+diary off
